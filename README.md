@@ -1,4 +1,4 @@
-# Bundler Simulator
+# Bundler Resolution Simulator
 
 This script simulates all the work Bundler does when resolving your dependencies and adds a snarky twist.
 
