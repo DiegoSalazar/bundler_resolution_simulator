@@ -1,6 +1,6 @@
 # Bundler Simulator
 
-This script simulates all the work Bundler does when resolving your dependencies.
+This script simulates all the work Bundler does when resolving your dependencies and adds a snarky twist.
 
 To run the demo, just run this command in your shell:
 
