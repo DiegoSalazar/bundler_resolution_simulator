@@ -57,16 +57,15 @@ begin
     $bundler_says.each_with_index do |(dots_count, phrase), i|
       print phrase
 
-      if i < $bundler_says.size-1 # Fetching
+      if i < $bundler_says.size # Fetching
         if rand > 0.3 # %70 chance we go into dots printing loop
           dots_count.times do
             sleep 1
             print $dot
           end
         end
-
       else # Resolving....
-        print phrase
+        print "\n#{phrase}"
 
         dots_count.times do
           sleep 1
