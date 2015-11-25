@@ -24,7 +24,7 @@ $bundler_yells = [
   "I REPEAT",
   "Shut up and",
   "Holy cheeses crust",
-  "Shut you hole and",
+  "Shut your hole and",
   "Get a coffee and",
   "Keep your tighties on and",
   "GAHDAMNIT",
